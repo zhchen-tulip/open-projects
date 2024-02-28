@@ -19,19 +19,19 @@
 - Pull requests are welcome: [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/open-projects)](https://github.com/tulip-lab/open-projects/pulls) 
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
-Prepared by **[TULIP Lab](https://www.tulip.org.au/members)**
+Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 
 
 ## :bulb: Content
 
 The purpose of this series of open projects is to help solve a real-world AI project using (but not limited to) modern AI methods. Each project is designed to:
 - help you gain hands-on experience in solving real projects;
-- item help you get experience in writing academic report.
+- help you get experience in writing academic report.
 
-Accordingly, for your chosen project, you are required to:
+`NEXUS` projects have their own specific requirements, and you can check each project's specification for details. For projects in other categories, you are required to:
 -  implement the project as required, maintain your own GitHub repository, and send the `pull request` for the corresponding `NEXUS` GitHub repository (if any).
 -  develop a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
-- deliver and publish (via services such as [YouTube](www.youtube.com)) a 25 minutes demonstration on your project.  
+-  deliver and publish (via services such as [YouTube](www.youtube.com)) a 25 minutes demonstration on your project.  
 
 
 ## :ledger: Open Projects
@@ -41,12 +41,12 @@ You are free to choose any project from the recommended lists.
 
 | :microscope: <br> Project  |  :label: <br> Category  | :ledger: <br> Specification |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----: |  :---: | ------| :-------: | :-----: |  
-| :one: | PaaS | :book: [Tourism Demand Forecasting Web Service](P01/README.md) | :star::star::star: | :star: |  
+| :one: | Web | :book: [Tourism Demand Forecasting Web Service](P01/README.md) | :star::star::star: | :star: |  
 | :two: | NEXUS | :book: [Tourism Demand Forecasting Algorithm](P02/README.md) | :star: | :star::star::star: |  
 | :three: | NEXUS | :book: [Fur-seal face recognition](P03/README.md) | :star::star::star: | :star::star::star::star: |  
 | :four: | Cyber | :book: [Abnormal DNS Traffic Detection](P04/README.md) | :star: | :star::star::star::star: |  
 | :five: | Cyber | :book: [ZTA Architecture](P05/README.md) | :star::star::star: | :star::star::star::star: |  
-| :six: | AI | :book: [Photo-based Attendance Ststen](P06/README.md) | :star::star::star: | :star: |  
+| :six: | Web | :book: [Photo-based Attendance System](P06/README.md) | :star::star::star: | :star: |  
 | :seven: | NEXUS | :book: [To be Updated](P07/README.md) | :star: | :star::star::star::star: |  
 | :eight: | NEXUS | :book: [To be Updated](P07/README.md) | :star: | :star::star::star::star: |  
 | :nine: | NEXUS | :book: [To be Updated](P07/README.md) | :star: | :star::star::star::star: |  
