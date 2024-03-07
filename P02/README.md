@@ -1,7 +1,7 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
 [![GitHub watchers](https://img.shields.io/badge/Module-Attendance-orange)](README.md)
 
-# Analysis and Design of Decentralized Zero Trust Access Architecture
+# Photo based Attendance Marking System
 
 A Photo based attendance marking system in Python. Assuming that you have taken an attendance photo of the class, and design and implement a system in Python, so that the identification of people inside the photo can be properly done.
 
