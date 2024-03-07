@@ -42,7 +42,7 @@ You are free to choose any project from the recommended lists.
 | :microscope: <br>  ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----: |  ------| :-------: | :-----: |  
 | :one: |  :book: [Tourism Demand Forecasting Web Service](P01/README.md) | :star::star::star: | :star: |  
-| :two:  | :book: [Photo-based Attendance System](P06/README.md) | :star::star::star: | :star: |   
+| :two:  | :book: [Photo-based Attendance System](P02/README.md) | :star::star::star: | :star: |   
 | :three:  | :book: [Fur-seal face recognition](P03/README.md) | :star::star::star: | :star::star::star::star::star: |  
 | :four:  | :book: [Abnormal DNS Traffic Detection](P04/README.md) | :star: | :star::star::star::star: |  
 | :five:  | :book: [ZTA Architecture](P05/README.md) | :star::star::star: | :star::star::star::star: |  
@@ -51,21 +51,19 @@ You are free to choose any project from the recommended lists.
 
 ## :ledger: `NEXUS` Projects
 
-`NEXUS` projects are for the `NEXUS` research training program, and each of them has their own specific requirements, which can be accessed from their project pages.
+`NEXUS` projects are for the `NEXUS` research training program, TULIP-Lab and each of them has their own specific requirements, which can be accessed from their project pages.
 
 
 | :microscope: <br> ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----:   | ------| :-------: | :-----: |  
-| :one:   | :book: [Tourism Demand Forecasting Web Service](P01/README.md) | :star::star::star: | :star: |  
-| :two: |   :book: [Tourism Demand Forecasting Algorithm](P02/README.md) | :star: | :star::star::star: |  
-| :three: | `NEXUS` | :book: [Fur-seal face recognition](P03/README.md) | :star::star::star: | :star::star::star::star: |  
-| :four: | Cyber | :book: [Abnormal DNS Traffic Detection](P04/README.md) | :star: | :star::star::star::star: |  
-| :five: | Cyber | :book: [ZTA Architecture](P05/README.md) | :star::star::star: | :star::star::star::star: |  
-| :six: | Web | :book: [Photo-based Attendance System](P06/README.md) | :star::star::star: | :star: |  
-| :seven: | `NEXUS` | :book: [To be Updated](P07/README.md) | :star: | :star::star::star::star: |  
-| :eight: | `NEXUS` | :book: [To be Updated](P07/README.md) | :star: | :star::star::star::star: |  
-| :nine: | `NEXUS` | :book: [To be Updated](P07/README.md) | :star: | :star::star::star::star: |  
-| :keycap_ten: | `NEXUS` | :book: [To be Updated](P07/README.md) | :star: | :star::star::star::star: |  
+| :one:   | :book: [Tourism Demand Forecasting](N01/README.md) | :star::star: | :star: :star:|  
+| :two: |   :book: [Tabular Data Generation](N02/README.md) | :star: :star:| :star::star::star: |  
+| :three: |   :book: [Privacy-Stealing Attack in Reinforcement Learning](N03/README.md) | :star: :star:| :star::star::star: |  
+| :four: |   :book: [Security of Deep Learning Models](N04/README.md) | :star: :star:| :star::star::star: |  
+| :five: |   :book: [Data Distillation](N05/README.md) | :star: :star:| :star::star::star: |  
+| :six: |   :book: [Data Distillation](N06/README.md) | :star: :star:| :star::star::star: |  
+| :seven: |   :book: [Topological Data Analysis](N07/README.md) | :star: :star:| :star::star::star: |  
+
 
 
 
