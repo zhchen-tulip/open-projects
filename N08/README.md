@@ -5,6 +5,7 @@
 
 ---
 - Project Owner :point_right: : [Ye Zhu](https://www.tulip.org.au/members/)
+  - [IIT-Kharagpur](https://www.iitkgp.ac.in/) students are also recommended joining Dr Zhu's related [related projects](https://github.com/IIT-intern)
 - Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 ---
 

@@ -32,15 +32,15 @@ The purpose of this series of **open projects** is to help solve a real-world AI
 ### :ledger: Assignment Projects
 
 The following projects are recommended as:  
-- assignments for elite class students
-- capstone projects for Bachelor and Master by coursework students
+- *assignments* of [coursework units/subjects](https://github.com/tulip-lab#man_teacher-courses) for elite class students 
+- *capstone projects* ([SIT374](https://www.deakin.edu.au/courses/unit?unit=SIT374) and [SIT378](https://www.deakin.edu.au/courses/unit?unit=SIT378)) for Bachelor and Master by coursework students
 
 You are free to choose any project from the recommended lists. Most of those can be considered as assignments, typically, for which you are required to:
 -  implement the project as required, maintain your own GitHub repository.
 -  complete a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
 -  deliver and publish (via services such as [YouTube](www.youtube.com)) a  demonstration on your project.  
 
-More detailed requirements for assignments, please follow their [corresponding units'](https://github.com/tulip-lab#man_teacher-courses) requirements. 
+More detailed requirements for assignments, please follow their [corresponding units/subjects'](https://github.com/tulip-lab#man_teacher-courses) requirements. 
 
 | :microscope: <br>  ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----: |  ------| :-------: | :-----: |  
@@ -54,7 +54,16 @@ More detailed requirements for assignments, please follow their [corresponding u
 
 ## :ledger: `NEXUS` Projects
 
-`NEXUS` projects are established for the [`NEXUS` research training program](https://github.com/tulip-lab#runner-nexus-research-training), supervised by [TULIP-Lab members](https://www.tulip.org.au/members). Every project has its own specific requirements, which can be accessed from the corresponding project pages.
+`NEXUS` projects are established for the [`NEXUS` research training program](https://github.com/tulip-lab#runner-nexus-research-training), supervised by [TULIP-Lab members](https://www.tulip.org.au/members). 
+
+The following projects are recommended as:  
+- Stage :one: - research projects compatible with Deakin's [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723) Unit
+- Stage :two: - research projects compatible with Deakin's [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) Unit
+- Stage :three: - research projects compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) projects
+
+
+
+Every project has its own specific requirements, which can be accessed from the corresponding project pages.
 
 | :microscope: <br> ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----:   | ------| :-------: | :-----: |  

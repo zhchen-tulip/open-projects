@@ -11,7 +11,7 @@
 
 Injured survivors trapped inside the rubble need necessary oxygen and food for survival. The existing systems such as manual search, sniffer dogs, etc., are tedious to search the survivors inside the rubble. Therefore, in one of our published work, an ad hoc network with the set of UAVs was established to find the injured survivors inside the rubble. Therefore, it is imperative to program the UAV in such a way that the path from the source to the target is computed automatically and efficiently. The trajectory planning in such systems plays a vital role as it directly affects the performance metrics such as latency and energy efficiency.
 
-The objective in the project is to **solve a trajectory planning problem to a computational efficient algorithm in 3D environment satisfying optimization constraints such as minimum latency and minimum energy**.
+The objective in the project is to **solve a trajectory planning problem to a computational efficient algorithm in 3D environment satisfying optimization constraints**, such as minimum latency and minimum energy.
 
 
 
