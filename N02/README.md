@@ -18,7 +18,7 @@ Regardless of the challenge, application of GAN to tabular data generation has s
 The related documents are encrypted, and you will receive the password upon the acceptance into stage :one: of the project. 
 
 - [NEXUS-S1 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S1.pdf) 
-- [Stage 1 - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S1.pdf) 
+- [Stage :one: - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S1.pdf) 
 
 ##### Outstanding Student Works
 
@@ -29,7 +29,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
-- [Stage 2 - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S2.pdf) 
+- [Stage :two: - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S2.pdf) 
 
 ##### Outstanding Student Works
 
@@ -42,7 +42,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
-- [Stage 3 - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S3.pdf) 
+- [Stage :three: - N02: Tabular Data Generation](https://github.com/tulip-lab/handouts/blob/main/nexus/N02-S3.pdf) 
 
 ##### Outstanding Student Works
 

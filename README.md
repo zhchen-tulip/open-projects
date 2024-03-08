@@ -26,8 +26,8 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 ## :bulb: Content
 
 The purpose of this series of **open projects** is to help solve a real-world AI project using (but not limited to) modern AI methods. Each project is designed to:
-- help you get experience in following cutting edge research and writing academic report.
-- help you gain hands-on experience in solving real projects;
+- help you get experience in following cutting edge research and writing academic report;
+- help you gain hands-on experience in solving real projects.
 
 ### :ledger: Assignment Projects
 
@@ -38,45 +38,40 @@ The following projects are recommended as:
 You are free to choose any project from the recommended lists. Most of those can be considered as assignments, typically, for which you are required to:
 -  implement the project as required, maintain your own GitHub repository.
 -  complete a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
--  deliver and publish (via services such as [YouTube](www.youtube.com)) a  demonstration on your project.  
+-  deliver and publish (via services such as [YouTube](www.youtube.com)) a demonstration on your project.
 
-More detailed requirements for assignments, please follow their [corresponding units/subjects'](https://github.com/tulip-lab#man_teacher-courses) requirements. 
+More detailed requirements for *assignments*, please follow their [corresponding units/subjects'](https://github.com/tulip-lab#man_teacher-courses) requirements. 
 
 | :microscope: <br>  ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----: |  ------| :-------: | :-----: |  
-| :one: |  :book: [Tourism Demand Forecasting Web Service](P01/README.md) | :star::star::star: | :star: |  
-| :two:  | :book: [Photo-based Attendance System](P02/README.md) | :star::star::star: | :star: |   
-| :three:  | :book: [Fur-seal face recognition](P03/README.md) | :star::star::star: | :star::star::star::star::star: |  
+| :one: |  :book: [Tourism Demand Forecasting Web Service](P01/README.md) | :star::star::star::star:  | :star::star:|  
+| :two:  | :book: [Photo-based Attendance System](P02/README.md) | :star::star::star::star: | :star::star::star:  |   
+| :three:  | :book: [Fur-seal Face Recognition](P03/README.md) | :star::star::star: | :star::star::star::star::star: |  
 | :four:  | :book: [Abnormal DNS Traffic Detection](P04/README.md) | :star: | :star::star::star::star: |  
 | :five:  | :book: [ZTA Architecture](P05/README.md) | :star::star::star: | :star::star::star::star: |  
 
 
-
 ## :ledger: `NEXUS` Projects
 
-`NEXUS` projects are established for the [`NEXUS` research training program](https://github.com/tulip-lab#runner-nexus-research-training), supervised by [TULIP-Lab members](https://www.tulip.org.au/members). 
-
-The following projects are recommended as:  
-- Stage :one: - research projects compatible with Deakin's [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723) Unit
-- Stage :two: - research projects compatible with Deakin's [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) Unit
+`NEXUS` projects are established for the [`NEXUS` research training program](https://github.com/tulip-lab#runner-nexus-research-training), supervised by [TULIP-Lab members](https://www.tulip.org.au/members). The following projects are recommended as:  
+- Stage :one: - research projects compatible with Deakin's [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723) unit
+- Stage :two: - research projects compatible with Deakin's [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) unit
 - Stage :three: - research projects compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) projects
-
-
 
 Every project has its own specific requirements, which can be accessed from the corresponding project pages.
 
 | :microscope: <br> ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----:   | ------| :-------: | :-----: |  
-| :one:   | :book: [Tourism Demand Forecasting](N01/README.md) | :star::star: | :star: :star:|  
-| :two: |   :book: [Tabular Data Generation](N02/README.md) | :star: :star:| :star::star::star: |  
-| :three: |   :book: [*Privacy* Attack in Reinforcement Learning](N03/README.md) | :star: :star::star:| :star::star::star: |  
-| :four: |   :book: [*Security* of Deep Learning Models](N04/README.md) | :star::star: :star:| :star::star::star: |  
-| :five: |   :book: [Data Distillation](N05/README.md) | :star: :star::star:| :star::star::star: :star:|  
-| :six: |   :book: [Optimal Transportation](N06/README.md) | :star: :star:| :star::star::star: |  
-| :seven: |   :book: [Topological Data Analysis](N07/README.md) | :star: :star: :star:| :star::star::star: :star:|  
-| :eight: |   :book: [Time Series Anomaly Detection](N08/README.md) | :star: :star: :star:| :star::star::star: :star:|  
-| :nine: |   :book: [Trajectory Planning of UAVs](N09/README.md) | :star: :star: :star:| :star::star::star: :star:|  
-| :keycap_ten: |   :book: [Quantum Machine Learning](N10/README.md) | :star: :star: :star:| :star::star::star: :star:|  
+| :one:   | :book: [Tourism Demand Forecasting](N01/README.md) | :star::star: | :star::star:|  
+| :two: |   :book: [Tabular Data Generation](N02/README.md) | :star::star:| :star::star::star::star:  |  
+| :three: |   :book: [*Privacy* Attack in Reinforcement Learning](N03/README.md) | :star::star::star:| :star::star::star: |  
+| :four: |   :book: [*Security* of Deep Learning Models](N04/README.md) | :star::star::star:| :star::star:|  
+| :five: |   :book: [Data Distillation](N05/README.md) | :star::star::star:| :star::star::star::star:|  
+| :six: |   :book: [Optimal Transportation](N06/README.md) | :star::star:| :star::star::star: |  
+| :seven: |   :book: [Topological Data Analysis](N07/README.md) | :star::star::star:| :star::star::star::star::star: |  
+| :eight: |   :book: [Time Series Anomaly Detection](N08/README.md) | :star::star::star:| :star::star::star::star:|  
+| :nine: |   :book: [Trajectory Planning of UAVs](N09/README.md) | :star::star::star::star: | :star::star::star::star:|  
+| :keycap_ten: |   :book: [Quantum Machine Learning](N10/README.md) | :star::star::star: | :star::star::star::star:|  
 
 
 

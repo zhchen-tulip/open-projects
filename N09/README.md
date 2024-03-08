@@ -8,7 +8,6 @@
 - Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 ---
 
-
 Injured survivors trapped inside the rubble need necessary oxygen and food for survival. The existing systems such as manual search, sniffer dogs, etc., are tedious to search the survivors inside the rubble. Therefore, in one of our published work, an ad hoc network with the set of UAVs was established to find the injured survivors inside the rubble. Therefore, it is imperative to program the UAV in such a way that the path from the source to the target is computed automatically and efficiently. The trajectory planning in such systems plays a vital role as it directly affects the performance metrics such as latency and energy efficiency.
 
 The objective in the project is to **solve a trajectory planning problem to a computational efficient algorithm in 3D environment satisfying optimization constraints**, such as minimum latency and minimum energy.
@@ -20,7 +19,7 @@ The objective in the project is to **solve a trajectory planning problem to a co
 The related documents are encrypted, and you will receive the password upon the acceptance into stage :one: of the project. 
 
 - [NEXUS-S1 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S1.pdf) 
-- [Stage 1 - N09: Trajectory Planning of UAVs](https://github.com/tulip-lab/handouts/blob/main/nexus/N08-S1.pdf) 
+- [Stage :one: - N09: Trajectory Planning of UAVs](https://github.com/tulip-lab/handouts/blob/main/nexus/N08-S1.pdf) 
 
 ##### Outstanding Student Works
 
@@ -31,7 +30,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
-- [Stage 2 - N09: Trajectory Planning of UAVs](https://github.com/tulip-lab/handouts/blob/main/nexus/N09-S2.pdf) 
+- [Stage :two: - N09: Trajectory Planning of UAVs](https://github.com/tulip-lab/handouts/blob/main/nexus/N09-S2.pdf) 
 
 ##### Outstanding Student Works
 
@@ -44,7 +43,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
-- [Stage 3 - N09: Trajectory Planning of UAVs](https://github.com/tulip-lab/handouts/blob/main/nexus/N09-S3.pdf) 
+- [Stage :three: - N09: Trajectory Planning of UAVs](https://github.com/tulip-lab/handouts/blob/main/nexus/N09-S3.pdf) 
 
 ##### Outstanding Student Works
 

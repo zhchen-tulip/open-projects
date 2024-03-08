@@ -15,7 +15,7 @@ Topological Data Analysis (TDA) has emerged as potent tools, leveraging extracte
 The related documents are encrypted, and you will receive the password upon the acceptance into stage :one: of the project. 
 
 - [NEXUS-S1 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S1.pdf) 
-- [Stage 1 - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S1.pdf) 
+- [Stage :one: - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S1.pdf) 
 
 ##### Outstanding Student Works
 
@@ -26,7 +26,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
-- [Stage 2 - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S2.pdf) 
+- [Stage :two: - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S2.pdf) 
 
 ##### Outstanding Student Works
 
@@ -39,7 +39,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
-- [Stage 3 - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S3.pdf) 
+- [Stage :three: - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S3.pdf) 
 
 ##### Outstanding Student Works
 

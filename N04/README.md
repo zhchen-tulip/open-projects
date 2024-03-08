@@ -19,7 +19,7 @@ The relentless pursuit of secure and reliable artificial neural networks is driv
 The related documents are encrypted, and you will receive the password upon the acceptance into stage :one: of the project. 
 
 - [NEXUS-S1 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S1.pdf) 
-- [Stage 1 - N04: Security of Deep Learning Models](https://github.com/tulip-lab/handouts/blob/main/nexus/N04-S1.pdf) 
+- [Stage :one: - N04: Security of Deep Learning Models](https://github.com/tulip-lab/handouts/blob/main/nexus/N04-S1.pdf) 
 
 ##### Outstanding Student Works
 
@@ -30,7 +30,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
-- [Stage 2 - N04: Security of Deep Learning Models](https://github.com/tulip-lab/handouts/blob/main/nexus/N04-S2.pdf) 
+- [Stage :two: - N04: Security of Deep Learning Models](https://github.com/tulip-lab/handouts/blob/main/nexus/N04-S2.pdf) 
 
 ##### Outstanding Student Works
 
@@ -43,7 +43,7 @@ The related documents are encrypted, and you will receive the password upon the 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
-- [Stage 3 - N04: Security of Deep Learning Models](https://github.com/tulip-lab/handouts/blob/main/nexus/N04-S3.pdf) 
+- [Stage :three: - N04: Security of Deep Learning Models](https://github.com/tulip-lab/handouts/blob/main/nexus/N04-S3.pdf) 
 
 ##### Outstanding Student Works
 
