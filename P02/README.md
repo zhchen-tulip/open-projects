@@ -1,31 +1,37 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-Demand--Forecasting-orange)](README.md)
+[![GitHub watchers](https://img.shields.io/badge/Module-Attendance-orange)](README.md)
 
-# Tourism Demand Forecasting 
+# Photo based Attendance Marking System
 
-You are required to design a `Tourism Demand Forecasting` Algorithm,
-which will beat existing algorithm in terms of either short term accuracy, long term accuracy by walk-through validation, or *explainability* etc.
+A Photo based attendance marking system in Python. Assuming that you have taken an attendance photo of the class, and design and implement a system in Python, so that the identification of people inside the photo can be properly done.
 
-There are several open data sets available at: [TULIP Open-Data](https://github.com/tulip-lab/open-data), and all those data come with the publication and source code. For example, the data set [Macau2018](https://github.com/tulip-lab/open-data/tree/master/Macau2018), and one previous implementation is provided at: [DLM](https://github.com/tulip-lab/open-code/tree/master/DLM).
+The expected features:
+- face detection
+- face registration
+- face recognition
+- attendance system, utilizing the meta information, such as the photo time, and GPS location.
+- attendance report summary
 
 ## Keywords:
 
--  Machine Learning, Python Programming.
+- Pattern Recognition, Python Programming.
 
 
 ## Tools and Platforms
 
-- Python Programming 
-- GitHub Repository 
+- Python Programming
+- GitHub Repository
 - Markdown document
 
 ## Necessary Skills
 
-- Python programming, data science, machine learning, pattern recognition, 
- [GitHub Repository](https://github.com/tulip-lab/open-code)
+- Python programming, data science, machine learning, pattern recognition
+- ZTA
+- [GitHub Repository](https://github.com/tulip-lab/open-code)
 
 There will be a varies of specific technique skills for the team members:
--  Time Series Forecasting model 
+ 
+-  Cloud platform (Cloudflare)
 -  Documentation 
 -  GUI
 
