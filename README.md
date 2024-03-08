@@ -31,13 +31,16 @@ The purpose of this series of **open projects** is to help solve a real-world AI
 
 ### :ledger: Assignment Projects
 
-The following projects are designed for **capstone** projects, elite class subject **assignments**. Most of those can be considered as assignments, typically, for which you are required to:
+The following projects are recommended as:  
+- assignments for elite class students
+- capstone projects for Bachelor and Master by coursework students
+
+You are free to choose any project from the recommended lists. Most of those can be considered as assignments, typically, for which you are required to:
 -  implement the project as required, maintain your own GitHub repository.
--  develop a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
+-  complete a report on your method (with adequate justification), your discovery, empirical evaluation and analysis.
 -  deliver and publish (via services such as [YouTube](www.youtube.com)) a  demonstration on your project.  
 
-You are free to choose any project from the recommended lists. 
-
+More detailed requirements for assignments, please follow their [corresponding units'](https://github.com/tulip-lab#man_teacher-courses) requirements. 
 
 | :microscope: <br>  ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----: |  ------| :-------: | :-----: |  
@@ -51,18 +54,24 @@ You are free to choose any project from the recommended lists.
 
 ## :ledger: `NEXUS` Projects
 
-`NEXUS` projects are for the `NEXUS` research training program, TULIP-Lab and each of them has their own specific requirements, which can be accessed from their project pages.
-
+`NEXUS` projects are established for the [`NEXUS` research training program](https://github.com/tulip-lab#runner-nexus-research-training), supervised by [TULIP-Lab members](https://www.tulip.org.au/members). Every project has its own specific requirements, which can be accessed from the corresponding project pages.
 
 | :microscope: <br> ID   | :ledger: <br> Project Name |  :dart: <br> Technical Challenges  |  :man_teacher: <br> Research Challenges |  
 | :----:   | ------| :-------: | :-----: |  
 | :one:   | :book: [Tourism Demand Forecasting](N01/README.md) | :star::star: | :star: :star:|  
 | :two: |   :book: [Tabular Data Generation](N02/README.md) | :star: :star:| :star::star::star: |  
-| :three: |   :book: [Privacy-Stealing Attack in Reinforcement Learning](N03/README.md) | :star: :star:| :star::star::star: |  
-| :four: |   :book: [Security of Deep Learning Models](N04/README.md) | :star: :star:| :star::star::star: |  
-| :five: |   :book: [Data Distillation](N05/README.md) | :star: :star:| :star::star::star: |  
-| :six: |   :book: [Data Distillation](N06/README.md) | :star: :star:| :star::star::star: |  
-| :seven: |   :book: [Topological Data Analysis](N07/README.md) | :star: :star:| :star::star::star: |  
+| :three: |   :book: [*Privacy* Attack in Reinforcement Learning](N03/README.md) | :star: :star::star:| :star::star::star: |  
+| :four: |   :book: [*Security* of Deep Learning Models](N04/README.md) | :star::star: :star:| :star::star::star: |  
+| :five: |   :book: [Data Distillation](N05/README.md) | :star: :star::star:| :star::star::star: :star:|  
+| :six: |   :book: [Optimal Transportation](N06/README.md) | :star: :star:| :star::star::star: |  
+| :seven: |   :book: [Topological Data Analysis](N07/README.md) | :star: :star: :star:| :star::star::star: :star:|  
+| :eight: |   :book: [Time Series Anomaly Detection](N08/README.md) | :star: :star: :star:| :star::star::star: :star:|  
+| :nine: |   :book: [Trajectory Planning of UAVs](N09/README.md) | :star: :star: :star:| :star::star::star: :star:|  
+| :keycap_ten: |   :book: [Quantum Machine Learning](N10/README.md) | :star: :star: :star:| :star::star::star: :star:|  
+
+
+
+
 
 
 

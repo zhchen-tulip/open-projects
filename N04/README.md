@@ -1,7 +1,12 @@
 [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen)](../README.md)
-[![GitHub watchers](https://img.shields.io/badge/Module-NEXUS-orange)](README.md)
+[![GitHub watchers](https://img.shields.io/badge/Module-NEXUS-orange)](https://github.com/tulip-lab#runner-nexus-research-training)
 
 # `NEXUS` Security of Deep Learning Models
+
+---
+- Project Owner :point_right: : [Haiyang Xia](https://www.tulip.org.au/members/)
+- Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
+---
 
 In recent years, artificial neural networks, especially deep learning models, have garnered widespread adoption across diverse domains, including engineering, management, biomedicine, and beyond. Their remarkable success has sparked growing concerns regarding their security and reliability. Extensive studies have unveiled the vulnerability of well-designed artificial neural networks to various forms of adversarial attacks, which can cause them to make incorrect and potentially harmful decisions. This security issue has hindered the deployment of artificial neural networks in security-sensitive applications, underscoring the urgent need for robust defense mechanisms.
 
@@ -9,7 +14,7 @@ In response, significant research efforts have been dedicated to designing appro
 
 The relentless pursuit of secure and reliable artificial neural networks is driven by the imperative to safeguard their deployment in critical applications, where erroneous or malicious outputs could have severe consequences. Researchers are continuously exploring innovative defense techniques, ranging from adversarial training and input preprocessing to model verification and certified robustness. The ultimate goal is to **develop artificial neural networks that are not only accurate and efficient but also resilient to adversarial threats**, ensuring their trustworthiness and enabling their widespread adoption in security-sensitive domains.
 
-### :notebook_with_decorative_cover: `NEXUS-S1`
+### :notebook_with_decorative_cover: `NEXUS-S1` (compatible with [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723))
 
 The related documents are encrypted, and you will receive the password upon the acceptance into stage :one: of the project. 
 
@@ -20,7 +25,7 @@ The related documents are encrypted, and you will receive the password upon the 
 
 - TO BE ADDED
 
-### :notebook_with_decorative_cover: `NEXUS-S2`
+### :notebook_with_decorative_cover: `NEXUS-S2` (compatible with [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724))
 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :two: of the project. 
 
@@ -32,7 +37,7 @@ The related documents are encrypted, and you will receive the password upon the 
 - TO BE ADDED
 
 
-### :notebook_with_decorative_cover: `NEXUS-S3`
+### :notebook_with_decorative_cover: `NEXUS-S3` (compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours))
 
 
 The related documents are encrypted, and you will receive the password upon the acceptance into the stage :three: of the project. 
