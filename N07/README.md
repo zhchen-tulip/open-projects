@@ -12,12 +12,12 @@ Topological Data Analysis (TDA) has emerged as potent tools, leveraging extracte
 
 ### :notebook_with_decorative_cover: `NEXUS-S1` (compatible with [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723))
 
-The related documents are encrypted, and you will receive the password upon the acceptance into stage :one: of the project. 
+The related documents are encrypted, and you will receive the password upon the acceptance into the stage :one: of the project. 
 
 - [NEXUS-S1 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S1.pdf) 
 - [Stage :one: - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S1.pdf) 
 
-##### Outstanding Student Works
+##### :point_right: Featured Student Works
 
 - TO BE ADDED
 
@@ -28,7 +28,7 @@ The related documents are encrypted, and you will receive the password upon the 
 - [NEXUS-S2 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S2.pdf) 
 - [Stage :two: - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S2.pdf) 
 
-##### Outstanding Student Works
+##### :point_right: Featured Student Works
 
 - TO BE ADDED
 
@@ -41,6 +41,6 @@ The related documents are encrypted, and you will receive the password upon the 
 - [NEXUS-S3 Guideline](https://github.com/tulip-lab/handouts/blob/main/nexus/Nexus-S3.pdf) 
 - [Stage :three: - N07: Topological Data Analysis](https://github.com/tulip-lab/handouts/blob/main/nexus/N01-S3.pdf) 
 
-##### Outstanding Student Works
+##### :point_right: Featured Student Works
 
 - TO BE ADDED
