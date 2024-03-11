@@ -67,7 +67,7 @@ Every project has its own specific requirements, which can be accessed from the 
 | :three: |   :book: [*Privacy* Attack in Reinforcement Learning](N03/README.md) | :star::star::star:| :star::star::star: |  
 | :four: |   :book: [*Security* of Deep Learning Models](N04/README.md) | :star::star::star:| :star::star:|  
 | :five: |   :book: [Data Distillation](N05/README.md) | :star::star::star:| :star::star::star::star:|  
-| :six: |   :book: [Optimal Transportation](N06/README.md) | :star::star:| :star::star::star: |  
+| :six: |   :book: [Label Distribution Learning](N06/README.md) | :star::star:| :star::star::star: |  
 | :seven: |   :book: [Topological Data Analysis](N07/README.md) | :star::star::star:| :star::star::star::star::star: |  
 | :eight: |   :book: [Time Series Anomaly Detection](N08/README.md) | :star::star::star:| :star::star::star::star:|  
 | :nine: |   :book: [Trajectory Planning of UAVs](N09/README.md) | :star::star::star::star: | :star::star::star::star:|  
